@@ -10,3 +10,6 @@ tests/out
 !.gitignore
 
 **/out
+.target
+**/target
+*.iml
